@@ -1,0 +1,2 @@
+# appic-vue-template
+template
